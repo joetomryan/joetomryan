@@ -42,10 +42,10 @@ I’m Joe Tom Ryan, a tech enthusiast and AI/ML developer passionate about build
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🏥 **Diabetic Retinopathy AI** | CNN with GAN-augmented data achieving high accuracy | [View Project](https://github.com/joetomryan/ai-retinopathy) |
+| 👁️ **Diabetic Retinopathy AI** | CNN with GAN-augmented data achieving high accuracy | [View Project](https://github.com/joetomryan/ai-diabetic-retinopathy) |
 | 🍛 **Food Waste Forecaster** | Demand forecasting AI to reduce restaurant food waste | [View Project](https://github.com/joetomryan/food-waste-ai) |
-| 🦷 **Dental Implant Planner** | PyQt5 tool with 3D viewer, AI risk mapping & MPR | [View Project](https://github.com/joetomryan/dental-implant-planner) |
-| 🏃 **RunClub App** | Native Flutter platform for running clubs (in dev) | 🔜 Coming Soon |
+| 🦷 **Dental Implant Planner** | PyQt5 tool with 3D viewer, AI risk mapping & MPR | [View Project](https://github.com/joetomryan/dental-implant) |
+| 🏃 **RunClub App** | Native Flutter platform for running clubs (in dev) | [View Project](https://github.com/joetomryan/runclub-app) |
 
 ---
 
@@ -61,21 +61,20 @@ I’m Joe Tom Ryan, a tech enthusiast and AI/ML developer passionate about build
 ## 🚀 Project Gallery
 
 <p align="center">
-  <a href="https://github.com/joetomryan/ai-retinopathy">
-    <img src="https://raw.githubusercontent.com/joetomryan/ai-retinopathy/main/preview.png" width="300" alt="Diabetic Retinopathy Classifier" />
+  <a href="https://github.com/joetomryan/ai-diabetic-retinopathy">
+    <img src="https://raw.githubusercontent.com/joetomryan/ai-diabetic-retinopathy/main/preview.png" width="300" alt="Diabetic Retinopathy Classifier" />
   </a>
-  <a href="https://github.com/joetomryan/dental-implant-planner">
-    <img src="https://raw.githubusercontent.com/joetomryan/dental-implant-planner/main/preview.png" width="300" alt="Dental Implant Planner" />
+  <a href="https://github.com/joetomryan/dental-implant">
+    <img src="https://raw.githubusercontent.com/joetomryan/dental-implant/main/preview.png" width="300" alt="Dental Implant Planner" />
   </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/joetomryan/runclub/main/preview.png" width="300" alt="RunClub App (Coming Soon)" />
+  <a href="https://github.com/joetomryan/runclub-app">
+    <img src="https://raw.githubusercontent.com/joetomryan/runclub-app/main/preview.png" width="300" alt="RunClub App" />
   </a>
 </p>
 
 <p align="center">
   <i>Click on any project to explore more. Screenshots and interactive demos coming soon!</i>
 </p>
-
 
 ## 📫 Contact Me
 
@@ -88,3 +87,4 @@ I’m Joe Tom Ryan, a tech enthusiast and AI/ML developer passionate about build
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Code+for+change.;Build+to+impact.;Always+learning+🚀&font=Fira+Code&center=true&width=440&height=45&color=00c6ff&vCenter=true&pause=1000&size=22" />
 </p>
+
