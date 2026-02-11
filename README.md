@@ -1,55 +1,81 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Joe%20Tom%20Ryan&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Joe%20Tom%20Ryan&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="center">💻 AI/ML Developer | 📍 India | 🧠 Turning Ideas into Impact</h3>
+<h3 align="center">Founding AI Engineer | GenAI Systems Builder | Turning Research into Production</h3>
 
 <p align="center">
-  <a href="mailto:joetomryan7@gmail.com"><img src="https://img.shields.io/badge/Email-joetomryan7@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://linkedin.com/in/joetomryan"><img src="https://img.shields.io/badge/LinkedIn-Joe%20Tom%20Ryan-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:joetomryan7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/joetomryan">
+    <img src="https://img.shields.io/badge/LinkedIn-Joe%20Tom%20Ryan-blue?style=flat&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m Joe Tom Ryan, a tech enthusiast and AI/ML developer passionate about building real-world solutions in:
+I’m a Founding AI Engineer and startup founder focused on building **production-grade AI systems that ship, scale, and drive real business impact**.
 
-- 🏥 **Healthcare** (Diabetic Retinopathy, Dental Implant Planning)
-- 🍛 **Sustainability** (AI-powered Food Waste Forecasting)
-- 🏃‍♂️ **Fitness** (RunClub – a platform for runners)
+I specialize in:
+- Real-time Conversational & Voice AI systems  
+- LLM orchestration, agentic workflows, and automation  
+- End-to-end GenAI deployment into real-world business operations  
+- Healthcare AI with real clinical adoption  
 
----
-
-## ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flutter,dart,opencv,qt,github,firebase,linux" />
-</p>
+Currently leading GenAI platform development at a fast-growing startup, and previously founded MedAI delivering AI systems used in healthcare environments.
 
 ---
 
-## 🧠 Currently Working On
+## What I Work On
 
-- 🏃 **RunClub** – Flutter app with Google Maps, AI coach & club marketplace  
-- 🦷 **Dental Implant Planner** – DICOM viewer + CBCT analysis + risk prediction  
-- 👁️ **Diabetic Retinopathy Classifier** – EfficientNet + GAN for data expansion
+### Enterprise Generative AI
+- Real-time conversational agents running sales workflows at scale  
+- Voice-first LLM platforms with sub-second latency  
+- Multi-agent orchestration pipelines with RAG & memory layers  
+- API-driven AI systems deployed for real customers  
+
+### Healthcare AI Systems
+- Diabetic retinopathy screening (clinically adopted)  
+- CBCT-based dental implant planning with 3D visualization & risk modeling  
+
+### Applied ML Products
+- Demand forecasting systems for inventory & waste reduction  
+- Production ML pipelines from data ingestion to live inference  
 
 ---
 
-## 🌟 Featured Projects
+## Tech & Systems Stack
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 👁️ **Diabetic Retinopathy AI** | CNN with GAN-augmented data achieving high accuracy | [View Project](https://github.com/joetomryan/ai-diabetic-retinopathy) |
-| 🍛 **Food Waste Forecaster** | Demand forecasting AI to reduce restaurant food waste | [View Project](https://github.com/joetomryan/food-waste-ai) |
-| 🦷 **Dental Implant Planner** | PyQt5 tool with 3D viewer, AI risk mapping & MPR | [View Project](https://github.com/joetomryan/dental-implant) |
-| 🏃 **RunClub App** | Native Flutter platform for running clubs (in dev) | [View Project](https://github.com/joetomryan/runclub-app) |
+**Programming & Systems**  
+Python, C++, Java, SQL, API Development, Workflow Automation, System Design  
+
+**GenAI & Machine Learning**  
+PyTorch, TensorFlow, OpenCV, LLM Orchestration, RAG, Multi-Agent Systems, Prompt Engineering, Real-Time Inference  
+
+**Deployment & Cloud**  
+Docker, FastAPI, Microservices, Git, AWS (EC2, S3, Lambda, RDS)  
+
+**Product Execution**  
+Client-facing engineering, rapid prototyping, cross-functional collaboration, end-to-end ownership  
 
 ---
 
-## 📊 GitHub Stats
+##  Featured Work
+
+| Area | Project | What It Does |
+|-----|--------|-------------|
+|  GenAI Systems | **Enterprise Conversational & Voice AI Platform** | Real-time LLM orchestration powering business workflows |
+|  Healthcare AI | **Diabetic Retinopathy Screening AI** | Clinically adopted disease detection with 99%+ accuracy |
+|  Medical Imaging | **Dental Implant Planning Software** | CBCT DICOM viewer with 3D reconstruction & AI risk analysis |
+|  Forecasting | **PantryPal Demand Prediction** | ML system reducing food waste via real-time forecasting |
+
+---
+
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joetomryan&show_icons=true&theme=tokyonight" height="170">
@@ -58,33 +84,24 @@ I’m Joe Tom Ryan, a tech enthusiast and AI/ML developer passionate about build
 
 ---
 
-## 🚀 Project Gallery
+##  What I Care About
 
-<p align="center">
-  <a href="https://github.com/joetomryan/ai-diabetic-retinopathy">
-    <img src="https://raw.githubusercontent.com/joetomryan/ai-diabetic-retinopathy/main/preview.png" width="300" alt="Diabetic Retinopathy Classifier" />
-  </a>
-  <a href="https://github.com/joetomryan/dental-implant">
-    <img src="https://raw.githubusercontent.com/joetomryan/dental-implant/main/preview.png" width="300" alt="Dental Implant Planner" />
-  </a>
-  <a href="https://github.com/joetomryan/runclub-app">
-    <img src="https://raw.githubusercontent.com/joetomryan/runclub-app/main/preview.png" width="300" alt="RunClub App" />
-  </a>
-</p>
+✔ Turning AI into real products (not demos)  
+✔ Low-latency, reliable GenAI systems  
+✔ Automation that actually executes work  
+✔ Bridging models with real-world workflows  
+✔ Building from zero to production  
 
-<p align="center">
-  <i>Click on any project to explore more. Screenshots and interactive demos coming soon!</i>
-</p>
+---
 
-## 📫 Contact Me
+##  Reach Me
 
-- 📧 Email: [joetomryan7@gmail.com](mailto:joetomryan7@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/joetomryan](https://www.linkedin.com/in/joetomryan)  
-- 🌐 Portfolio: *Coming soon*
+📧 joetomryan7@gmail.com  
+🔗 https://linkedin.com/in/joetomryan  
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code+for+change.;Build+to+impact.;Always+learning+🚀&font=Fira+Code&center=true&width=440&height=45&color=00c6ff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shipping+real+AI+systems.;Building+GenAI+that+works.;From+prototype+to+production.&font=Fira+Code&center=true&width=480&height=45&color=2c5364&vCenter=true&pause=1000&size=22" />
 </p>
 
