@@ -73,10 +73,24 @@ Applied ML in Production       Healthcare imaging pipelines, clinical deployment
 
 ---
 
+### Open Source & Reference Architectures
+
+> Most of my production work lives in private org repos at [100x.inc](https://github.com/100xinc) and MedAI.
+> Below are public reference implementations, system design docs, and standalone tools I've open-sourced.
+
+| Repo | Description |
+|:-----|:------------|
+| [`voice-ai-architecture`](https://github.com/joetomryan/voice-ai-architecture) | System design and reference implementation for real-time Voice AI with LLM orchestration, turn-taking, and streaming inference |
+| [`multi-agent-patterns`](https://github.com/joetomryan/multi-agent-patterns) | Reusable multi-agent orchestration patterns — task decomposition, reasoning loops, tool-calling, and stateful workflows |
+| [`retinopathy-classifier`](https://github.com/joetomryan/retinopathy-classifier) | Diabetic Retinopathy detection pipeline using EfficientNet + GAN augmentation on public datasets |
+| [`dental-implant-planner`](https://github.com/joetomryan/dental-implant-planner) | CBCT-based 3D implant planning with VTK visualization, MPR, and ML risk prediction |
+
+---
+
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joetomryan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=joetomryan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true" height="160">
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joetomryan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=ffffff&text_color=c9d1d9" height="160">
 </p>
@@ -89,12 +103,4 @@ Applied ML in Production       Healthcare imaging pipelines, clinical deployment
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
-</p>
-📧 joetomryan7@gmail.com  
-🔗 https://linkedin.com/in/joetomryan  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+agentic+AI+systems.;Orchestrating+LLMs+at+scale.;From+models+to+products.&font=Fira+Code&center=true&width=500&height=45&color=2c5364&vCenter=true&pause=1000&size=22" />
 </p>
