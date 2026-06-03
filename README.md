@@ -1,6 +1,6 @@
 ## hey, i'm joe 👋
 
-founding ai engineer at [100x.inc](https://100x.inc). i spent the last year building [cortex](https://github.com/joetomryan) — a persistent semantic memory layer for autonomous ai agents — and [sally](https://100x.inc), a real-time voice ai platform serving 50k+ conversations/month across 30+ u.s. enterprise clients.
+Deployment engineer at Avoca.ai. i spent the last year building [cortex](https://github.com/joetomryan) — a persistent semantic memory layer for autonomous ai agents — and [sally](https://100x.inc), a real-time voice ai platform serving 50k+ conversations/month across 30+ u.s. enterprise clients.
 
 before that i founded [MedAI](https://github.com/joetomryan), shipping clinically adopted computer vision (99%+ accuracy) to 30+ healthcare facilities.
 
